@@ -14,3 +14,4 @@ Repo file structure is as follows:
 ## References
 Mars news: https://static.bc-edx.com/data/web/mars_news/index.html
 Mars temp data: https://static.bc-edx.com/data/web/mars_facts/temperature.html
+Beautiful Soup documentation: https://www.crummy.com/software/BeautifulSoup/bs4/doc/
